@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'karla';
+    src: url('fonts/static/Karla-Regular.ttf');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'karla';
+    text-decoration: none;
+    outline: none;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+nav {
+    font-family: 'karla';
+}
