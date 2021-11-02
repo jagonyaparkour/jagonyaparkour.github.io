@@ -789,6 +789,9 @@
         .text-2{
             margin: 15px 0;
         }
+        .g-ytsubscribe{
+            margin: 10px 0;
+        }
     }
     
     @media(max-width: 400px) {

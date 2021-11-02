@@ -68,6 +68,7 @@ $(document).ready(function() {
               'part' : 'snippet',
               'channelId' : 'UCPTH7FsMmwe2xxDzlS1FQWg',
               'maxResults' : '1',
+              'order' : 'date'
               
             }, 
             success : function(result){
