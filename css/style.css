@@ -118,7 +118,7 @@
         transition: 1s .3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     }
     
-    .profil img {
+    .profil img{
         width: 200px;
         height: 200px;
         border-radius: 50%;
