@@ -118,12 +118,12 @@
         transition: 1s .3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
     }
     
-    .img {
+    .profil img {
         width: 200px;
         height: 200px;
         border-radius: 50%;
         border: 2px solid rgb(29, 197, 29);
-        overflow: hidden;
+    
     }
     
     .profil h1 {
